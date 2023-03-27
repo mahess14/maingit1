@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>comtwittermail</name>
+=======
+	<name>com.magnitia.cucumber</name>
+>>>>>>> 5bcdb66 (2 commit)
 	<comment></comment>
 	<projects>
 	</projects>

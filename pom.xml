@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.twitter</groupId>
@@ -6,6 +7,18 @@
   
   
   <dependencies>
+=======
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.magnitia</groupId>
+	<artifactId>com.magnitia.cucumber</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+
+	<dependencies>
+>>>>>>> 5bcdb66 (2 commit)
 
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
@@ -54,6 +67,10 @@
 
 		</dependency>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5bcdb66 (2 commit)
 		<dependency>
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-java</artifactId>
@@ -66,6 +83,7 @@
 			<version>7.8.1</version>
 		</dependency>
 
+<<<<<<< HEAD
 	</dependencies>
    
   
@@ -94,4 +112,14 @@
 	</build>
   
   
+=======
+
+
+	</dependencies>
+
+
+
+
+
+>>>>>>> 5bcdb66 (2 commit)
 </project>
